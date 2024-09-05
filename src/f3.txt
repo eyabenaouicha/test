@@ -1,2 +1,0 @@
-hi f3.txt
-modif f1 f3
